@@ -1,0 +1,1 @@
+This repository contains the implementation of experiment in a publication: V. Kautsky, Z. Koldovsky, and T. Adali, "Double Nonstationarity: Blind Extraction of Independent Nonstationary Vector/Component from Nonstationary Mixtures - Performance Analysis", submitted, Dec 2023.
